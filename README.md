@@ -1,4 +1,4 @@
-# Ryan Freeman 👋
+# Hey, I'm Ryan 👋
 
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning TypeScript, Shopify API and Next.js
