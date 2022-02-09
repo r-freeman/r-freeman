@@ -1,6 +1,6 @@
 # Hey, I'm Ryan 👋
 
-- 🔭 I’m currently working as a Software Engineer with Aer Lingus
+- ✈️ I’m currently working as a Software Engineer at Aer Lingus
 - 🌱 I’m currently Spring, TypeScript, Shopify API and Next.js
 - 👯 I’m looking to collaborate on open-source projects
 
