@@ -7,6 +7,4 @@
 [Website](https://ryanfreeman.dev)  
 [Email](mailto:hello@ryanfreeman.dev)  
 [LinkedIn](https://linkedin.com/in/r-freeman)  
-[Twitter](https://twitter.com/freemry)
-
 
